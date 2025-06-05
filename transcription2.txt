@@ -1,0 +1,12 @@
+Agente: ¡Buenos días! ¿En qué puedo ayudarle hoy?
+Cliente: Buenos días. Me llamo María López y tengo una consulta sobre mi cuenta bancaria.
+Agente: Perfecto, señora López. ¿Podría confirmarme su número de documento para verificar su identidad?
+Cliente: Sí, mi número es 12345678.
+Agente: Gracias, ya verifiqué sus datos. ¿En qué consiste su consulta?
+Cliente: Quiero saber por qué me cobraron una comisión este mes.
+Agente: Veo que hubo un mantenimiento de cuenta. Le explico los detalles si gusta.
+Cliente: Sí, por favor.
+Agente: Fue un cargo automático por inactividad. Si lo desea, puedo ayudarla a revisar opciones para evitarlo en el futuro.
+Cliente: Muchas gracias por la ayuda.
+Agente: Con gusto, señora López. Que tenga un buen día.
+Cliente: Gracias, igualmente. Hasta luego.
