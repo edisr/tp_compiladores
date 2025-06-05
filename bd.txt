@@ -1,0 +1,275 @@
+{
+    "hola": {
+        "token": "SALUDO",
+        "sentimiento": 1
+    },
+    "buenos": {
+        "token": "SALUDO",
+        "sentimiento": 1
+    },
+    "días": {
+        "token": "SALUDO",
+        "sentimiento": 1
+    },
+    "tarde": {
+        "token": "SALUDO",
+        "sentimiento": 1
+    },
+    "noche": {
+        "token": "SALUDO",
+        "sentimiento": 1
+    },
+    "internet": {
+        "token": "SUSTANTIVO",
+        "sentimiento": 0
+    },
+    "trabajo": {
+        "token": "SUSTANTIVO",
+        "sentimiento": 0
+    },
+    "router": {
+        "token": "SUSTANTIVO",
+        "sentimiento": 0
+    },
+    "servicio": {
+        "token": "SUSTANTIVO",
+        "sentimiento": 0
+    },
+    "cliente": {
+        "token": "SUSTANTIVO",
+        "sentimiento": 0
+    },
+    "rápido": {
+        "token": "ADJETIVO_POSITIVO",
+        "sentimiento": 1
+    },
+    "urgente": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -1
+    },
+    "cansado": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -1
+    },
+    "molestia": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -1
+    },
+    "imposible": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -3
+    },
+    "excelente": {
+        "token": "ADJETIVO_POSITIVO",
+        "sentimiento": 3
+    },
+    "bueno": {
+        "token": "ADJETIVO_POSITIVO",
+        "sentimiento": 1
+    },
+    "amable": {
+        "token": "ADJETIVO_POSITIVO",
+        "sentimiento": 2
+    },
+    "fatal": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -3
+    },
+    "mal": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -2
+    },
+    "lento": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -1
+    },
+    "conecta": {
+        "token": "VERBO",
+        "sentimiento": 0
+    },
+    "funciona": {
+        "token": "VERBO",
+        "sentimiento": 1
+    },
+    "reiniciar": {
+        "token": "VERBO",
+        "sentimiento": 0
+    },
+    "corta": {
+        "token": "VERBO",
+        "sentimiento": -1
+    },
+    "arreglen": {
+        "token": "VERBO",
+        "sentimiento": -1
+    },
+    "llamé": {
+        "token": "VERBO",
+        "sentimiento": 0
+    },
+    "esperando": {
+        "token": "VERBO",
+        "sentimiento": -2
+    },
+    "fallo": {
+        "token": "SUSTANTIVO_NEGATIVO",
+        "sentimiento": -2
+    },
+    "problema": {
+        "token": "SUSTANTIVO_NEGATIVO",
+        "sentimiento": -1
+    },
+    "lentitud": {
+        "token": "SUSTANTIVO_NEGATIVO",
+        "sentimiento": -1
+    },
+    "ayuda": {
+        "token": "SUSTANTIVO_POSITIVO",
+        "sentimiento": 1
+    },
+    "solución": {
+        "token": "SUSTANTIVO_POSITIVO",
+        "sentimiento": 1
+    },
+    "gracias": {
+        "token": "SALUDO",
+        "sentimiento": 0.7
+    },
+    "y": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "o": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "pero": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "aunque": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "ni": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "que": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "si": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "como": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "porque": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "ya que": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "pues": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "mientras": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "sin embargo": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "a pesar de que": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "cuando": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "donde": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "para que": {
+        "token": "CONJUNCION",
+        "sentimiento": 0.0
+    },
+    "fue": {
+        "token": "VERBO",
+        "sentimiento": 0.0
+    },
+    "malo": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -2.0
+    },
+    "pesimo": {
+        "token": "ADJETIVO_NEGATIVO",
+        "sentimiento": -3.0
+    },
+    "idiota": {
+        "token": "NO_PERMITIDA",
+        "sentimiento": -3.0
+    },
+    "estúpido": {
+        "token": "NO_PERMITIDA",
+        "sentimiento": -3.0
+    },
+    "imbécil": {
+        "token": "NO_PERMITIDA",
+        "sentimiento": -3.0
+    },
+    "tonto": {
+        "token": "NO_PERMITIDA",
+        "sentimiento": -3.0
+    },
+    "¿con quién tengo el gusto" : {
+        "token": "IDENTIFICACION_CLIENTE",
+        "sentimiento": 0.0
+    },
+    "¿cuál es su nombre" : {
+        "token": "IDENTIFICACION_CLIENTE",
+        "sentimiento": 0.0
+    },
+    "¿cómo se llama" : {
+        "token": "IDENTIFICACION_CLIENTE",
+        "sentimiento": 0.0
+    },
+    "¿me podría dar su nombre" : {
+        "token": "IDENTIFICACION_CLIENTE",
+        "sentimiento": 0.0
+    },
+    "Su nombre es..." : {
+        "token": "IDENTIFICACION_CLIENTE",
+        "sentimiento": 0.0
+    },
+    "número de documento" : {
+        "token": "IDENTIFICACION_CLIENTE",
+        "sentimiento": 0.0
+    },
+    "gracias por su tiempo" : {
+        "token": "DESPEDIDA",
+        "sentimiento": 0.0
+    },
+    "que tenga un buen día" : {
+        "token": "DESPEDIDA",
+        "sentimiento": 0.0
+    },
+    "estamos para servirle" : {
+        "token": "DESPEDIDA",
+        "sentimiento": 0.0
+    },
+    "Que tenga un buen día" : {
+        "token": "DESPEDIDA",
+        "sentimiento": 0.0
+    }
+    
+}
